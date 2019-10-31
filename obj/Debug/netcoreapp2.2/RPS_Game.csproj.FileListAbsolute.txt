@@ -1,0 +1,11 @@
+C:\Source\codeworks\c#\RPS_Game\bin\Debug\netcoreapp2.2\RPS_Game.deps.json
+C:\Source\codeworks\c#\RPS_Game\bin\Debug\netcoreapp2.2\RPS_Game.runtimeconfig.json
+C:\Source\codeworks\c#\RPS_Game\bin\Debug\netcoreapp2.2\RPS_Game.runtimeconfig.dev.json
+C:\Source\codeworks\c#\RPS_Game\bin\Debug\netcoreapp2.2\RPS_Game.dll
+C:\Source\codeworks\c#\RPS_Game\bin\Debug\netcoreapp2.2\RPS_Game.pdb
+C:\Source\codeworks\c#\RPS_Game\obj\Debug\netcoreapp2.2\RPS_Game.csprojAssemblyReference.cache
+C:\Source\codeworks\c#\RPS_Game\obj\Debug\netcoreapp2.2\RPS_Game.csproj.CoreCompileInputs.cache
+C:\Source\codeworks\c#\RPS_Game\obj\Debug\netcoreapp2.2\RPS_Game.AssemblyInfoInputs.cache
+C:\Source\codeworks\c#\RPS_Game\obj\Debug\netcoreapp2.2\RPS_Game.AssemblyInfo.cs
+C:\Source\codeworks\c#\RPS_Game\obj\Debug\netcoreapp2.2\RPS_Game.dll
+C:\Source\codeworks\c#\RPS_Game\obj\Debug\netcoreapp2.2\RPS_Game.pdb
