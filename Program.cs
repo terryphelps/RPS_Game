@@ -115,27 +115,3 @@ namespace RPS_Game
     }
   }
 }
-// setup var for choice
-// establish loop to repeat game play
-// accept input from player
-// change input to lowercase
-// check for valid entry
-// run random for 3 numbers
-// compare input to random number
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
