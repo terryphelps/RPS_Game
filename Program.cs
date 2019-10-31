@@ -7,6 +7,7 @@ namespace RPS_Game
     static void Main(string[] args)
     {
       bool keepPlaying = true;
+      // Game loop
       while (keepPlaying)
       {
         Console.Clear();
@@ -14,6 +15,7 @@ namespace RPS_Game
         Console.WriteLine();
         Console.Write("Enter you selection: ");
         bool validThrow = false;
+        // Input check
         while (!validThrow)
         {
           string playerThrow = Console.ReadLine().ToLower();
